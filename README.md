@@ -23,8 +23,8 @@ Our restaurant reservation system aims to provide a seamless and convenient way 
 
 ## Technologies Used
 - **Frontend:** React.js, React-Bootstrap
-- **Backend:** Python, Flask
-- **Database:** SQLite (for local development), PostgreSQL (for production)
+- **Backend:** Python
+- **Database:** SQLite (for local development)
 - **Authentication:** JWT (JSON Web Tokens)
 - **HTTP Requests:** Axios
 - **Routing:** Next.js (for server-side rendering)
